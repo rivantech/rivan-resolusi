@@ -2,3 +2,4 @@ Resolusi Rivan 2025
 -Konsisten Belajar Frontend Setiap Hari Selama 2 Jam
 -Membuat Website Pribadi Yang digunakan secara pribadi untuk mengelola menyimpan semua jenis file dengan fokus pada frontend.
 -Latihan dengan membuat project sederhana 1 bulan 1 kali
+-Tetap berusaha,latiham,dan kerja keras walaupun sering mengalami error
